@@ -1,4 +1,4 @@
-    	           TJ Devries kickstart.nvim installation method in Linux.
+# TJ Devries kickstart.nvim installation method in Linux.
 
 This is a small tutorial for the installation method of kickstart.neovim in the linux
 terminal, in the easiest manner possible. This will turn neovim into a full-fledged IDE that is just as advanced as any other IDE, but faster, along with the ability to modify it to suit your needs. It is totally setup for you to make it your own, with full instuctions on how to do so. There really is nothing any faster than this, assuming you have a basic understanding of Vim. If you don't, that's ok too. After installing this, you will also get a guided tour on how to use it. It will take practice, like anything else, if you don't already know some vim motions.
@@ -84,3 +84,9 @@ source ~/.config/nvim/init.lua
 After you do that, when you open Neovim again you will have the feature you want; in this case
 line numbers and relative line numbers. I would highly recommend this feature first to help in
 navigation.
+
+## After Note
+
+Any contribution is welcomed, if you notice any mistakes please make a PR addressing it.
+
+Thank you.
